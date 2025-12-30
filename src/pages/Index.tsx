@@ -252,7 +252,7 @@ const Index = () => {
               Start Scaling Your Business Today
             </h2>
             <p className="text-background/70 text-lg mb-10">
-              Join hundreds of businesses using Create Halal Software Solutions to grow faster, work smarter, and achieve more.
+              Join hundreds of businesses using SKMH Solutions to grow faster, work smarter, and achieve more.
             </p>
             <Link to="/contact">
               <Button variant="hero" size="xl" className="bg-primary text-foreground hover:bg-primary/90">

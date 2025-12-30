@@ -45,10 +45,10 @@ export const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3 group">
             <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center transition-transform group-hover:scale-110">
-              <span className="text-primary-foreground font-bold text-lg">CH</span>
+              <span className="text-primary-foreground font-bold text-lg">SM</span>
             </div>
             <span className="text-xl font-bold text-foreground hidden sm:block">
-              Create Halal
+              SKMH Solutions
             </span>
           </Link>
 

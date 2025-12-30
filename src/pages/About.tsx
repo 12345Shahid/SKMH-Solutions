@@ -80,7 +80,7 @@ const About = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Create Halal Software Solutions was founded with a simple mission: to make powerful business technology accessible to companies of all sizes.
+                  SKMH Solutions was founded with a simple mission: to make powerful business technology accessible to companies of all sizes.
                 </p>
                 <p>
                   We saw businesses struggling with disconnected tools, manual processes, and expensive enterprise solutions that were overkill for their needs. So we built something better — an integrated platform that brings CRM, automation, and AI together in one place.
@@ -170,7 +170,7 @@ const About = () => {
           >
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-                Why Choose Create Halal?
+                Why Choose SKMH Solutions?
               </h2>
             </div>
 

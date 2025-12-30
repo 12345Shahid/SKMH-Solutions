@@ -19,21 +19,10 @@ const contactInfo = [
     value: "Hong Kong",
   },
   {
-    icon: Phone,
-    label: "Phone",
-    value: "+852 5919 7632",
-    href: "tel:+85259197632",
-  },
-  {
     icon: Mail,
     label: "Email",
-    value: "shaheedkamrul95@gmail.com",
-    href: "mailto:shaheedkamrul95@gmail.com",
-  },
-  {
-    icon: Globe,
-    label: "Website",
-    value: "create-halal-ai-solutions.lovable.app",
+    value: "skmhsolutions@gmail.com",
+    href: "mailto:skmhsolutions@gmail.com",
   },
 ];
 

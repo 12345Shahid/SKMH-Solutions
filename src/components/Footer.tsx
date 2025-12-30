@@ -27,9 +27,9 @@ export const Footer = () => {
           <div className="space-y-6">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-lg">CH</span>
+                <span className="text-primary-foreground font-bold text-lg">SM</span>
               </div>
-              <span className="text-xl font-bold">Create Halal</span>
+              <span className="text-xl font-bold">SKMH Solutions</span>
             </div>
             <p className="text-background/70 text-sm leading-relaxed">
               Your complete CRM & automation platform to scale any business. Based in Hong Kong, serving businesses worldwide.
@@ -83,22 +83,10 @@ export const Footer = () => {
                 <span className="text-background/70 text-sm">Hong Kong</span>
               </li>
               <li className="flex items-start gap-3">
-                <Phone className="w-5 h-5 text-primary mt-0.5" />
-                <a href="tel:+85259197632" className="text-background/70 hover:text-primary transition-colors text-sm">
-                  +852 5919 7632
-                </a>
-              </li>
-              <li className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-primary mt-0.5" />
-                <a href="mailto:shaheedkamrul95@gmail.com" className="text-background/70 hover:text-primary transition-colors text-sm">
-                  shaheedkamrul95@gmail.com
+                <a href="mailto:skmhsolutions@gmail.com" className="text-background/70 hover:text-primary transition-colors text-sm">
+                  skmhsolutions@gmail.com
                 </a>
-              </li>
-              <li className="flex items-start gap-3">
-                <Globe className="w-5 h-5 text-primary mt-0.5" />
-                <span className="text-background/70 text-sm">
-                  create-halal-ai-solutions.lovable.app
-                </span>
               </li>
             </ul>
           </div>
@@ -107,7 +95,7 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-background/10 mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-background/50 text-sm">
-            © {new Date().getFullYear()} Create Halal Software Solutions. All rights reserved.
+            © {new Date().getFullYear()} SKMH Solutions. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link to="/contact" className="text-background/50 hover:text-primary transition-colors text-sm">
